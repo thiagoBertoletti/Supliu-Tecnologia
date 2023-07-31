@@ -1,7 +1,6 @@
-# Getting Started with Create React App
+Projeto realizado usando ReactJS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Discografia de uma dupla sertaneja.
 ## Available Scripts
 
 In the project directory, you can run:
