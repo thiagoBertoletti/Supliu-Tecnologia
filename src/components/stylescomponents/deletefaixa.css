@@ -1,0 +1,20 @@
+.delete-fx-button {
+    font-size: 15px;
+    margin-left: 310px;
+    margin-top: 5px;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 8px;
+    padding: 3px;
+    border: none;
+    background-color: #1d8aff;
+    color: #fff;
+}
+
+@media screen and (max-width: 768px) {
+    .delete-fx-button {
+      margin-left: 10px;
+      margin-right: 10px;
+      margin-top: 10px;
+      width: 25%;
+    }
+  }

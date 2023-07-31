@@ -1,0 +1,37 @@
+.excluir-alb {
+    margin-left: 160px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.excluir-input {
+    margin-left: 160px;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.excluir-button {
+    margin-left: 36px;
+    border-radius: 8px;
+    background-color: #1d8aff;
+    color: #fff;
+    border: none;
+    padding: 7px;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+    .excluir-alb,
+    .excluir-input,
+    .excluir-button {
+      margin-left: 10px;
+    }
+  
+    .excluir-button {
+      margin-left: 10;
+      margin-top: 10px;
+      width: 20%;
+    }
+  }
+  
+  
+  

@@ -1,0 +1,90 @@
+.add-faixa {
+    margin-left: 160px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 30px;
+}
+
+.album-input {
+    font-size: 15px;
+    margin-left: 10px;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.numero-fx-input {
+    font-size: 15px;
+    margin-top: 5px;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 8px;
+    padding: 5px;
+    width: 10%;
+    padding-right: 53px;
+}
+
+.nome-fx-input {
+    font-size: 15px;
+    margin-left: 2px;
+    margin-top: 5px;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 8px;
+    padding: 5px;
+    width: 10%;
+    padding-right: 53px;
+}
+
+.numeroDur-fx-input {
+    font-size: 15px;
+    margin-left: 5px;
+    margin-top: 5px;  
+    border-radius: 8px;
+    padding: 5px;
+    width: 10%;
+    padding-right: 25px;
+}
+
+.add-fx-button {
+    font-size: 15px;
+    margin-left: 300px;
+    margin-top: 5px;  
+    border-radius: 8px;
+    padding: 3px;
+    border: none;
+    background-color: #1d8aff;
+    color: #fff;
+}
+
+.label-id {
+  font-family: 'Open Sans', sans-serif;
+  margin-left: 165px;
+}
+
+.label-num {
+  font-family: 'Open Sans', sans-serif;
+  margin-left: 165px;
+}
+
+.label-musica {
+  font-family: 'Open Sans', sans-serif;
+  margin-left: 165px;
+}
+
+.label-duracao {
+  font-family: 'Open Sans', sans-serif;
+  margin-left: 165px;
+}
+
+
+@media screen and (max-width: 768px) {
+  .add-faixa,
+  .label-id,
+  .label-num,
+  .label-musica,
+  .label-duracao {
+    margin-left: 10px;
+  }
+
+  .add-fx-button {
+    margin-left: 10px;
+  }
+}
